@@ -1,4 +1,4 @@
-# Final-Year-Project
+# Guiding-Eye
 
 AI Application for Visually Impaired
 
